@@ -6,9 +6,15 @@
       <module fileurl="file://$PROJECT_DIR$/Basics/Recursions/Basic/Basic.iml" filepath="$PROJECT_DIR$/Basics/Recursions/Basic/Basic.iml" />
       <module fileurl="file://$PROJECT_DIR$/Basics/Basics.iml" filepath="$PROJECT_DIR$/Basics/Basics.iml" />
       <module fileurl="file://$PROJECT_DIR$/Basics/Searching/BinarySearch/BinarySearch.iml" filepath="$PROJECT_DIR$/Basics/Searching/BinarySearch/BinarySearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Basics/SortingAlgorithm/BubbleSort/BubbleSort.iml" filepath="$PROJECT_DIR$/Basics/SortingAlgorithm/BubbleSort/BubbleSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Basics/SortingAlgorithm/CyclicSort/CyclicSort.iml" filepath="$PROJECT_DIR$/Basics/SortingAlgorithm/CyclicSort/CyclicSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Basics/SortingAlgorithm/InsertionSort/InsertionSort.iml" filepath="$PROJECT_DIR$/Basics/SortingAlgorithm/InsertionSort/InsertionSort.iml" />
       <module fileurl="file://$PROJECT_DIR$/Basics/Searching/LinearSearch/LinearSearch.iml" filepath="$PROJECT_DIR$/Basics/Searching/LinearSearch/LinearSearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Basics/SortingAlgorithm/MergeSort/MergeSort.iml" filepath="$PROJECT_DIR$/Basics/SortingAlgorithm/MergeSort/MergeSort.iml" />
       <module fileurl="file://$PROJECT_DIR$/Basics/Recursions/Recursions.iml" filepath="$PROJECT_DIR$/Basics/Recursions/Recursions.iml" />
       <module fileurl="file://$PROJECT_DIR$/Basics/Searching/Searching.iml" filepath="$PROJECT_DIR$/Basics/Searching/Searching.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Basics/SortingAlgorithm/SelectionSort/SelectionSort.iml" filepath="$PROJECT_DIR$/Basics/SortingAlgorithm/SelectionSort/SelectionSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Basics/SortingAlgorithm/SortingAlgorithm.iml" filepath="$PROJECT_DIR$/Basics/SortingAlgorithm/SortingAlgorithm.iml" />
       <module fileurl="file://$PROJECT_DIR$/Basics/Recursions/SubsetsAndPermutations/SubsetsAndPermutations.iml" filepath="$PROJECT_DIR$/Basics/Recursions/SubsetsAndPermutations/SubsetsAndPermutations.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Summer2023.iml" filepath="$PROJECT_DIR$/.idea/Summer2023.iml" />
     </modules>
